@@ -95,8 +95,6 @@
       <Link>Properties\AssemblyInfo.Base.cs</Link>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.BuildInformation.cs" />
-    <Compile Include="Properties\AssemblyInfo.Company.cs" />
-    <Compile Include="Properties\AssemblyInfo.VersionNumber.cs" />
     <Compile Include="ApplicationCentral.cs" />
     <Compile Include="CommunicationInitializer.cs" />
     <Compile Include="IFormTheApplicationCenter.cs" />
